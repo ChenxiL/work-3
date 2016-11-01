@@ -1,0 +1,16 @@
+html文件夹下的HTML文件-》返回上一级文件夹-》找到css文件夹-》找到css文件
+
+
+2.定位布局
+    文字定位
+        text-align
+
+
+    非文字类布局
+        float
+            left
+            right
+
+        position
+
+

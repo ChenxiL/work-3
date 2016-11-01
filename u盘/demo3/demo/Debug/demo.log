@@ -1,0 +1,27 @@
+﻿生成启动时间为 2016/10/26 16:33:53。
+     1>项目“C:\Users\辰羲\Desktop\u盘\demo3\demo\demo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\MyDrivers\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\demo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\mydrivers\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+                 c:\mydrivers\vc\atlmfc\include\afx.h(33) : 参见“MBCS_Support_Deprecated_In_MFC”的声明
+         C:\MyDrivers\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\demo.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt cmin.cpp demo.cpp demoDlg.cpp
+         demoDlg.cpp
+         demo.cpp
+         cmin.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\demo.res" demo.rc 
+       Link:
+         C:\MyDrivers\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\辰羲\Desktop\u盘\demo3\Debug\demo.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:C:\MyDrivers\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"C:\Users\辰羲\Desktop\u盘\demo3\Debug\demo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\辰羲\Desktop\u盘\demo3\Debug\demo.lib" /MACHINE:X86 Debug\demo.res
+         Debug\cmin.obj
+         Debug\demo.obj
+         Debug\demoDlg.obj
+         Debug\stdafx.obj
+         LINK : 没有找到 C:\Users\辰羲\Desktop\u盘\demo3\Debug\demo.exe 或上一个增量链接没有生成它；正在执行完全链接
+         demo.vcxproj -> C:\Users\辰羲\Desktop\u盘\demo3\Debug\demo.exe
+     1>已完成生成项目“C:\Users\辰羲\Desktop\u盘\demo3\demo\demo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:27.01
